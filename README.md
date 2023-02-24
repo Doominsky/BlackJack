@@ -1,0 +1,2 @@
+# blackjack
+ Simplified BlackJack game
